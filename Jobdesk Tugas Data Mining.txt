@@ -1,0 +1,24 @@
+KELOMPOK "DATA MINING"
+Firdaus Bintang Putra - 19104410045
+Celvinanda Octiawan - 20104410032
+Putri Merly Deleo karina - 20104410052
+Hendra Ferdianto - 20104410056
+Asrul Hidayatul Kusna - 20104410087
+
+HITUNG MATRIKS DISIMILARITY CAMPURAN
+
+Perhitungan excel ( euclidean distance[atribut ordinal] , manhattan distance[atribut numerik] , atribut nominal ):
+1. Asrul hidayatul K.
+2. Hendra Ferdianto
+3. Putri Merly D.K 
+
+Coding matriks disimilarity campuran : 
+1. Celvinanda Octiawan
+2. Firdaus Bintang Putra
+
+Perancangan web hasil matriks disimilarity campuran:
+1. Firdaus Bintang Putra 
+2. Celvinanda Octiawan 
+3. Putri Merly Deleo karina 
+4. Hendra Ferdianto 
+5. Asrul Hidayatul Kusna 
