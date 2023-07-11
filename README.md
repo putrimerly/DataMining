@@ -1,1 +1,1 @@
-# DsataMining
+# DataMining
